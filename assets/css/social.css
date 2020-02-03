@@ -1,0 +1,44 @@
+#busca {
+margin:0 auto;
+padding:0;
+}
+#txtbusca {
+border:0px solid #222;
+background:#EEE;
+width:1119px;
+height:60px;
+margin:0 auto;
+padding:10px 0 10px 10px;
+float:left;
+line-height:36px; 
+}
+#btnBusca {
+background:#bb26bb;
+position:relative;
+border:0px solid #222;
+color:#FFF; 
+margin:0 auto;
+padding:10px;
+border:0 none;
+font-size:27px;
+font-weight:bold;
+text-transform:uppercase;
+}
+#btnBusca:hover {
+background:#99cccc;
+}
+#sair {
+    position: relative;
+    bottom:0;
+    width:10%;
+    height: 43px;
+    background:#42d0ed;
+    position:relative;
+    border:0px solid #222;
+    color:#FFF; 
+    font-weight:bold;
+    text-transform:uppercase;
+}
+#sair:hover {
+    background:#bb26bb;
+    }

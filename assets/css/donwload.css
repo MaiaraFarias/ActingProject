@@ -1,0 +1,15 @@
+#sair {
+    position: relative;
+    bottom:0;
+    width:10%;
+    height: 43px;
+    background:#42d0ed;
+    position:relative;
+    border:0px solid #222;
+    color:#FFF; 
+    font-weight:bold;
+    text-transform:uppercase;
+}
+#sair:hover {
+    background:#bb26bb;
+    }
